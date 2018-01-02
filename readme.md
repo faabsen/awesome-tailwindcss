@@ -45,6 +45,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Rias](https://rias.be)
 - [Freek Van der Herten](https://murze.be/)
 - [Taylor Bryant](https://taylorbryant.blog)
+- [TailwindExpo](https://tailwindexpo.com)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
@@ -61,6 +62,7 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 - [Tailwind CSS - Building a Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page/)
 - [Rebuilding Laravel.io with Tailwind CSS](https://www.youtube.com/watch?v=ZrRRMBaz5Z0)
 - [Rebuilding Coinbase with Tailwind CSS](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
+- [Tailwind CSS Components Example](https://github.com/flatanimals/tailwind-components-example)
 - [Add Your Item](https://github.com/merchedhq/awesome-tailwindcss/pulls)
 
 
